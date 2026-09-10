@@ -1,0 +1,5 @@
+id: company
+title: Company
+description: Direction, decisions, and coordination across Areas.
+sort_order: 0
+connector_policy: all

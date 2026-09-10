@@ -1,0 +1,5 @@
+id: product
+title: Product
+description: Product discovery, development, and delivery.
+sort_order: 1
+connector_policy: all

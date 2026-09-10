@@ -1,0 +1,9 @@
+version: 2
+name: Your company
+description: ""
+root_area: company
+execution:
+  runtime: melso-cloud
+  harness: codex
+  model: default
+  fallbacks: []
