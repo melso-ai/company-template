@@ -1,0 +1,5 @@
+id: finance
+title: Finance
+description: Financial planning, records, and business performance.
+sort_order: 4
+connector_policy: all

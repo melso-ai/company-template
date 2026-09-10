@@ -1,0 +1,5 @@
+id: support
+title: Support
+description: Customer questions, support knowledge, and service improvements.
+sort_order: 3
+connector_policy: all
